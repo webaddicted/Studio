@@ -10,6 +10,10 @@ This project make studio handle easy by shortcut.
 5) **Ctrl+Alt+L** -> Format Code
 6) **Ctrl+Shift+O** -> Remove Not use package
 
+## Specifications
+
+- [x] Splashcreen with custom animation
+- [ ] Unit tests.
 
 ## Flutter Tools
 
