@@ -19,17 +19,15 @@ This project make studio handle easy by shortcut.
 
   * [Color Picker](http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5)
 
-
-
-
 ### Image Resources
 
    * [icons8](https://icons8.com/illustrations)
    * [undraw](https://undraw.co/illustrations)
    
-### Design
+### Design Templates
    * [iqonic](https://iqonic.design/product-category/mobile/filter_session/LTD59ETANW/)
    * [Flutter Awesome](https://flutterawesome.com/tag/onboarding/)
+   * [Flutter App World](https://flutterappworld.com/)
 
 ### Convert Video into GIF
  
